@@ -24,6 +24,6 @@ It’s a lightweight utility for quickly checking file contents directly from th
 ## 💻 Example Usage
 
 ```bash
-Enter File Path : C:\Users\vassa\Desktop\notes.txt
+Enter File Path : C:\Users\Despereaux0\Desktop\notes.txt
 This is an example file.
 It contains some sample text.
