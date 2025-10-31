@@ -14,7 +14,6 @@ Useful for learning how operating systems manage access control.
 - Set file permissions via octal notation (e.g., 755, 644)  
 - Handles missing or invalid files gracefully  
 - Works across Windows, macOS, and Linux  
-📄 *View Code →*
 
 ---
 
@@ -26,7 +25,6 @@ It demonstrates secure file handling and basic I/O operations in Python.
 - Reads text files line by line  
 - Detects missing or unreadable files  
 - Lightweight and beginner-friendly  
-📄 *View Code →*
 
 ---
 
@@ -38,7 +36,6 @@ Helps promote stronger password habits and awareness of weak credentials.
 - Checks for uppercase, lowercase, digits, and special characters  
 - Provides feedback on password strength (Weak → Strong)  
 - Simple and fast command-line interface  
-📄 *View Code →*
 
 ---
 
@@ -51,7 +48,6 @@ This tool demonstrates how attackers use social engineering to trick users — a
 - Flags urgent, manipulative phrases (e.g., *“verify now”*, *“account suspended”*)  
 - Identifies unknown or fake sender addresses  
 - Generates a readable phishing analysis report in the terminal  
-📄 *View Code →*
 
 ---
 
